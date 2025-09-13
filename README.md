@@ -1,2 +1,1 @@
-[//]: # (Language: pt-BR)
 # Projetos-
